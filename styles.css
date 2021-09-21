@@ -8,10 +8,12 @@
 html {
   scroll-behavior: smooth;
 }
-body {
-  font-family: "PT Serif", serif;
+*{
   margin: 0rem;
   padding: 0rem;
+}
+body {
+  font-family: "PT Serif", serif;
 }
 .heading-center {
   text-align: center;
